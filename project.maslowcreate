@@ -1,0 +1,24 @@
+{
+    "atomType": "Molecule",
+    "name": "minecraft sword",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 698070,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9869791666666666,
+            "y": 0.5,
+            "uniqueID": 127890,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
